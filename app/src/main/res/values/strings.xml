@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">H4-DB Fire Base</string>
+    <string name="txt_name">Nombres</string>
+    <string name="txt_surname">Apellidos</string>
+    <string name="txt_email">Email</string>
+    <string name="txt_phone">Telefono</string>
+    <string name="mnu_add">Añadir</string>
+    <string name="mnu_edit">Editar</string>
+    <string name="mnu_del">Eliminar</string>
+</resources>
